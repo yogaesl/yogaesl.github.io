@@ -1,0 +1,111 @@
+h1{
+	position: absolute;
+width: 900px;
+height: 1200px;
+left: 68px;
+top: -100px;
+
+font-family: 'Jomolhari';
+font-style: normal;
+font-weight: 200;
+font-size: 250px;
+line-height: 480px;
+margin-left: 10px;
+
+color: #FFFFFF;
+}
+
+h2{
+   position: absolute;
+width: 450px;
+height: 64px;
+left: 268px;
+top: 400px;
+
+font-family: 'Julius Sans One';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 55px;
+margin-left: 5px;
+
+color: #000000;
+}
+body{
+background-color:#605852;
+
+}
+.karta {
+	position: absolute;
+margin-left: 900px;
+width: 600px;
+top: 100px;
+}
+
+h3{
+	position: absolute;
+width: 450px;
+height: 86px;
+left: 106px;
+top: 700px;
+
+font-family: 'Julius Sans One';
+font-style: normal;
+font-weight: 400;
+font-size: 85px;
+line-height: 93px;
+
+color: #000000;
+
+}
+pre {
+	position: absolute;
+width: 1000px;
+height: 800px;
+left: 48px;
+top: 860px;
+
+font-family: 'Julius Sans One';
+font-style: normal;
+font-weight: 200;
+font-size: 35px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+.may {
+	position: absolute;
+	height: 650px;
+	margin-top: 1250px;
+	margin-left: 300px;
+}
+.popa{
+position:absolute;
+height: 700px;
+margin-top: 2700px;
+margin-left: 250px;
+}
+p{
+	position: absolute;
+	height: 250px;
+	margin-left: 1300px;
+	margin-top: 3450px;
+}
+.r {
+	position: absolute;
+	height: 200px;
+	margin-top: 2250px;
+	margin-left: 550px;
+}
+.q {
+position: absolute;
+	height: 50px;
+	margin-top: 3470px;
+	margin-left: 1350px;
+}
+.d {
+position: absolute;
+	height: 50px;
+	margin-top: 3470px;
+	margin-left: 1280px;
+}
